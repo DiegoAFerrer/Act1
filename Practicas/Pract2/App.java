@@ -177,7 +177,7 @@ public class App {
         StringReader in = null;
 
         try{
-            out = new FileWriter("miembros_facultad.txt");
+            out = new FileWriter("salarios.txt");
             in = new StringReader(listOfEmployees);
             int c;
             while ((c = in.read()) != -1){
