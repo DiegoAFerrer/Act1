@@ -1,0 +1,3 @@
+nimi Kato;
+tomo Upe;
+ma tomo Kowasakowako;
